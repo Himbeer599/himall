@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.shop.himall</groupId>
+    <artifactId>himall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>himall</name>
+    <description>A Maven aggregator project for microservices</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>himall-coupon</module>
+        <module>himall-member</module>
+        <module>himall-order</module>
+        <module>himall-product</module>
+        <module>himall-ware</module>
+        <module>renren-fast</module>
+
+    </modules>
+    <url/>
+    <licenses>
+        <license/>
+    </licenses>
+    <developers>
+        <developer/>
+    </developers>
+    <scm>
+        <connection/>
+        <developerConnection/>
+        <tag/>
+        <url/>
+    </scm>
+
+</project>
