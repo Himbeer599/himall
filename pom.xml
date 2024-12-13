@@ -16,9 +16,10 @@
         <module>himall-product</module>
         <module>himall-ware</module>
         <module>renren-fast</module>
-
+<!--        <module>renren-generator</module>-->
     </modules>
     <url/>
+
     <licenses>
         <license/>
     </licenses>
@@ -31,5 +32,14 @@
         <tag/>
         <url/>
     </scm>
+<!--    <dependencies>-->
+<!--        <dependency>-->
+<!--            <groupId>com.oracle</groupId>-->
+<!--            <artifactId>ojdbc17</artifactId>-->
+<!--            <version>21.9</version>-->
+<!--        </dependency>-->
+
+<!--    </dependencies>-->
+
 
 </project>
