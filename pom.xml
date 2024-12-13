@@ -16,7 +16,8 @@
         <module>himall-product</module>
         <module>himall-ware</module>
         <module>renren-fast</module>
-<!--        <module>renren-generator</module>-->
+        <module>renren-generator</module>
+        <module>himall-common/himall-common</module>
     </modules>
     <url/>
 
