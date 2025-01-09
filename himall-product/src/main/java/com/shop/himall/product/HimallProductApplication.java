@@ -3,7 +3,7 @@ package com.shop.himall.product;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//@MapperScan("com.shop.himall.product.dao")
+@MapperScan("com.shop.himall.product.dao")
 @SpringBootApplication
 public class HimallProductApplication {
 

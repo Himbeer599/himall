@@ -3,4 +3,5 @@ spring:
     username: root
     password: 1234
     url: jdbc:mysql://192.168.2.52:3308/himall_pms
-#    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
